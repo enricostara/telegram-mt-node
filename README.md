@@ -1,5 +1,6 @@
 # telegram-mt-node
 [![npm version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coverage-image]][coverage-url] [![Climate Status][climate-image]][climate-url]
+
 [![Sauce Test Status][sauce-image]][sauce-url]
 
 
